@@ -1,0 +1,31 @@
+{
+  "name": "learn-fullstack-javascript",
+  "version": "1.0.0",
+  "description": "Learning Fullstack JavaScript Development: MongoDB, Node.js, React.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ckpalma/learn-fullstack-javascript.git"
+  },
+  "keywords": [
+    "fullstack",
+    "javascript",
+    "mongodb",
+    "nodejs",
+    "node",
+    "reactjs",
+    "react",
+    "learning",
+    "learn",
+    "tutorial"
+  ],
+  "author": "Samer Buna",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/ckpalma/learn-fullstack-javascript/issues"
+  },
+  "homepage": "https://github.com/ckpalma/learn-fullstack-javascript#readme"
+}
