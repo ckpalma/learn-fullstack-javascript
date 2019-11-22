@@ -38,3 +38,5 @@ jspm_packages
 
 # MacOS specific directory
 .DS_Store
+
+public/bundle.js
